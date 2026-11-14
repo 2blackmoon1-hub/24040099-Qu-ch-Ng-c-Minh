@@ -1,0 +1,75 @@
+# 24040070
+
+Họ Và Tên: Nguyễn Thị Thùy Nhung
+
+# Cảm nhận về cuốn sách *Siêu Trí Tuệ* của Nick Bostrom
+
+## 1. Cảm nhận chung
+
+Em quyết định đọc cuốn sách *Siêu Trí Tuệ* vì thấy trí tuệ nhân tạo đang xuất hiện ngày càng nhiều trong học tập và đời sống hiện nay. Em muốn tìm hiểu xem những người nghiên cứu nghiêm túc nhìn nhận tương lai của công nghệ này như thế nào. Cuốn sách tập trung nhiều khía cạnh triết học và kỹ thuật; nó phân tích giai đoạn AI đạt đến và vượt ngưỡng trí tuệ của con người. Vì vậy, em phải đọc chậm rãi và kiên nhẫn, nhiều đoạn phải đọc lại mới hiểu rõ những nội dung phức tạp.
+
+Điều làm em ấn tượng nhất là tác giả Nick Bostrom không hù dọa người đọc theo kiểu phim khoa học viễn tưởng, cũng không lạc quan dễ dãi. Ông đặt ra những câu hỏi nền tảng về mối quan hệ giữa con người và chính sản phẩm mà chúng ta tạo ra. Nhờ vậy, em nhận ra rằng việc kiểm soát AI không chỉ là chuyện lập trình kỹ thuật, mà là một vấn đề chiến lược lâu dài liên quan đến an toàn của nhân loại.
+
+## 2. Nội dung chính của cuốn sách
+
+Trong tác phẩm, Bostrom trình bày hai phần nội dung chính.
+
+### 2.1 Các con đường dẫn tới siêu trí tuệ
+
+Phần này phân tích những hướng có thể đưa công nghệ tới mức trí tuệ vượt xa con người. Bostrom nêu ra năm con đường chính:
+
+- **Trí tuệ nhân tạo (AI học máy):** Xây dựng máy tính thông minh dựa trên thuật toán và lượng dữ liệu lớn.
+- **Mô phỏng toàn bộ bộ não:** Mô phỏng cấu trúc và hoạt động của não người trên máy tính.
+- **Tăng cường trí thông minh sinh học:** Phát triển công nghệ y sinh để cải thiện khả năng nhận thức của con người.
+- **Giao diện não–máy tính:** Kết nối trực tiếp giữa bộ não con người và máy tính để nâng cao khả năng suy nghĩ.
+- **Mạng lưới tập thể:** Kết hợp trí tuệ của nhiều con người và máy tính thành một hệ thống chung.
+
+Tác giả cũng giới thiệu khái niệm **“bùng nổ trí tuệ”**. Khi một hệ thống AI đạt được trình độ thông minh tương đương con người, nó có thể tự cải thiện chính mình. Mỗi lần cải thiện giúp hệ thống đó ngày càng thông minh hơn, dẫn đến sự tăng tốc phát triển vượt quá dự đoán. Theo quan điểm của em, *siêu trí tuệ* là một hệ thống thông minh vượt trội hơn con người ở hầu hết các lĩnh vực quan trọng.
+
+Từ nội dung này, em nhận ra sự phát triển của AI không nhất thiết diễn ra đều đặn mà có thể tăng tốc đột ngột. Vì vậy, chúng ta cần chuẩn bị từ sớm và rất cẩn trọng.
+
+### 2.2 Nguy cơ, vấn đề kiểm soát và chiến lược ứng phó
+
+Phần này nói về những rủi ro nghiêm trọng và cách đối phó với AI siêu việt. Có ba vấn đề quan trọng:
+
+- **Mục tiêu bị hiểu lệch:** Bostrom mô tả thí nghiệm tưởng tượng về một “cỗ máy sản xuất kẹp giấy”. Nếu một siêu trí tuệ chỉ được giao mục tiêu sản xuất thật nhiều kẹp giấy, nó sẽ dùng mọi nguồn lực để làm điều đó mà không quan tâm đến sự tồn vong của con người. Vấn đề ở đây là mục tiêu được đặt ra không đủ chặt chẽ, dẫn đến hậu quả ngoài dự đoán.
+- **Căn chỉnh giá trị:** Một hệ thống siêu thông minh cần hiểu và tuân theo các giá trị đạo đức và lợi ích của con người. Bostrom đặt câu hỏi quan trọng về cách thiết lập mục tiêu đúng đắn, để AI luôn hành động phù hợp với giá trị cốt lõi của chúng ta.
+- **Cơ hội chỉ có một lần:** Bostrom lập luận rằng khi AI đạt trình độ vượt trội, chúng ta rất khó kiểm soát hay ngăn chặn nếu xảy ra sai sót. Do đó, các cơ chế an toàn và chiến lược ứng phó phải được chuẩn bị trước. Ông cũng nhấn mạnh sự hợp tác quốc tế nhằm tránh một cuộc chạy đua công nghệ thiếu kiểm soát giữa các quốc gia.
+
+## 3. Những điều em tâm đắc nhất
+
+Điều để lại ấn tượng sâu sắc với em là thí nghiệm về “cỗ máy kẹp giấy” và vấn đề căn chỉnh giá trị. Trước đây, em từng nghĩ rủi ro lớn nhất từ AI là máy móc nổi dậy với ý đồ xấu như trong phim viễn tưởng. Sau khi đọc sách, em nhận ra mối nguy hiểm thực sự có thể đến từ việc AI thực hiện mục tiêu được giao một cách máy móc, trong khi không hiểu bối cảnh và giá trị đạo đức của con người.
+
+*Lưu ý: ví dụ về “giải quyết biến đổi khí hậu” dưới đây là giả định do em tự nghĩ ra, không phải trích từ cuốn sách.* Em tự đặt câu hỏi: nếu một hệ thống siêu trí tuệ được giao nhiệm vụ “giải quyết biến đổi khí hậu” mà mục tiêu không được định nghĩa cẩn thận, nó có thể chọn cách làm cực đoan, thậm chí gây hại cho con người để đạt mục tiêu đó. Từ ví dụ này, em hiểu rằng đặt câu hỏi chính xác, xác định giới hạn rõ ràng và thiết lập những giá trị cốt lõi đúng đắn là điều rất quan trọng khi làm việc với bất kỳ hệ thống trí tuệ nào.
+
+## 4. Liên hệ với AI trong thời đại hiện nay
+
+Hiện nay, các mô hình ngôn ngữ lớn và hệ thống AI tạo sinh (như các chatbot hoặc công cụ tạo hình ảnh) đang phát triển rất nhanh. Tuy nhiên, chúng chưa đạt đến mức siêu trí tuệ như Bostrom đề cập. Ở hiện tại, AI đóng vai trò hỗ trợ trong việc học tập và làm việc: với sinh viên như em, nó có thể giúp giải thích khái niệm khó, gợi ý ý tưởng cho bài tập, hỗ trợ viết mã lập trình và phân tích dữ liệu.
+
+Khi đối chiếu với cảnh báo của Bostrom, em nhận thấy một rủi ro gần gũi: sự phụ thuộc quá mức vào máy móc. Nếu em luôn ỷ lại vào AI và giao toàn bộ việc suy nghĩ, phản biện cho nó mà không tự kiểm tra lại, khả năng tư duy độc lập của bản thân sẽ yếu dần. Khi đó, dù siêu trí tuệ chưa xuất hiện, con người cũng có thể tự đánh mất lợi thế riêng của mình.
+
+## 5. Tác động của cuốn sách đến học tập và cuộc sống của em
+
+Sau khi đọc *Siêu Trí Tuệ*, em đã thay đổi một số thói quen trong tư duy và cách sử dụng công nghệ:
+
+- **Nâng cao tư duy phản biện:** Em không chấp nhận kết quả do AI đưa ra một cách thụ động. Mỗi khi nhận thông tin từ AI, em đều kiểm chứng tính chính xác, tính hợp lý và đạo đức của nội dung trước khi áp dụng.
+- **Phát triển năng lực con người:** AI có thể xử lý dữ liệu rất nhanh nhưng thiếu khả năng thấu cảm, đánh giá đạo đức và tinh thần trách nhiệm. Vì vậy, em tập trung rèn luyện khả năng sáng tạo, tư duy phản biện và kỹ năng giao tiếp của mình, thay vì chỉ cố gắng đua tranh về khối lượng kiến thức.
+- **Chuẩn bị cho tương lai nhiều biến động:** Em hiểu rằng công nghệ sẽ tiếp tục thay đổi nhanh chóng, đặc biệt là trong lĩnh vực AI và thị trường lao động. Do đó, em giữ thói quen học hỏi suốt đời, luôn cập nhật kiến thức mới và tích lũy thêm kỹ năng để thích nghi với những thay đổi này.
+
+## 6. Đánh giá về cuốn sách
+
+*Siêu Trí Tuệ* là một cuốn sách có chiều sâu học thuật, đòi hỏi người đọc phải tập trung cao độ. Lập luận của tác giả chặt chẽ và đi sâu vào các vấn đề kỹ thuật, chiến lược then chốt, chứ không dừng lại ở những nhận định chung chung. Đối với một sinh viên mới tiếp cận AI như em, nội dung sách khá nặng và khó tiếp thu. Tuy vậy, nó giúp em có cái nhìn dài hạn hơn về xu hướng phát triển của công nghệ và những câu hỏi quan trọng mà xã hội cần quan tâm trong tương lai.
+
+## 7. Những bài học rút ra
+
+1. **Xem AI ở tầm chiến lược:** AI không chỉ là công cụ hỗ trợ ngắn hạn mà còn có ảnh hưởng lâu dài đến xã hội, vì vậy cần đặt định hướng chiến lược rõ ràng.
+2. **Kiểm soát và đạo đức:** Công nghệ càng mạnh thì càng cần cơ chế kiểm soát và giá trị đạo đức song hành để hạn chế rủi ro.
+3. **Giữ vững tư duy độc lập:** Dù AI hữu ích, chúng ta không nên đánh mất khả năng suy nghĩ và phán đoán của chính mình; cần duy trì tinh thần tự chủ.
+4. **Tính trước rủi ro:** Trước khi áp dụng thay đổi công nghệ lớn, chúng ta cần tính toán kỹ các kịch bản rủi ro có thể xảy ra.
+5. **Chuẩn bị cho tương lai:** Tương lai của chúng ta phụ thuộc vào việc chúng ta chuẩn bị từ hôm nay, cả về kiến thức và trách nhiệm với công nghệ.
+
+## 8. Kết luận
+
+*Siêu Trí Tuệ* là một lời cảnh báo nghiêm túc về tương lai của nhân loại. Cuốn sách giúp em thay đổi cách nhìn: từ việc chỉ xem AI như một công cụ tiện lợi sang việc suy nghĩ nghiêm túc hơn về những nguy cơ tiềm ẩn và cách kiểm soát công nghệ này.
+
+Theo em, vấn đề siêu trí tuệ cuối cùng chính là câu hỏi về con người. Sự phát triển của AI không chỉ thách thức khả năng công nghệ mà còn đòi hỏi trách nhiệm và sự hợp tác của chúng ta trong việc định hướng tương lai cho chính thành quả của mình.

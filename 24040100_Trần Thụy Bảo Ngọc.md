@@ -1,0 +1,17 @@
+# 24040100
+
+Họ Và Tên: Trần Thụy Bảo Ngọc
+
+ẢM NHẬN CÁ NHÂN VỀ CUỐN SÁCH “SIÊU TRÍ TUỆ” – NICK BOSTROM
+
+Sau khi tìm hiểu cuốn sách Siêu Trí Tuệ của tác giả Nick Bostrom, điều khiến mình ấn tượng nhất không chỉ là những dự đoán về sự phát triển vượt bậc của trí tuệ nhân tạo (AI), mà còn là những câu hỏi sâu sắc mà tác giả đặt ra về tương lai của con người. Trước đây, khi nhắc đến AI, mình thường nghĩ đến những công cụ giúp con người học tập, làm việc nhanh chóng và thuận tiện hơn. Tuy nhiên, qua những nội dung trong cuốn sách, mình nhận ra rằng AI không chỉ mang đến cơ hội mà còn đặt ra nhiều vấn đề mà con người cần nghiêm túc suy nghĩ.
+
+Một trong những nội dung khiến mình suy ngẫm nhiều nhất là vấn đề kiểm soát siêu trí tuệ. Tác giả chỉ ra rằng điều đáng lo ngại không nhất thiết là AI trở nên độc ác hay muốn chống lại con người, mà là khi nó có mục tiêu không phù hợp với những giá trị và lợi ích của nhân loại. Ví dụ về một AI chỉ có nhiệm vụ tối đa hóa số lượng kẹp giấy khiến mình khá bất ngờ. Một mục tiêu tưởng chừng vô hại nhưng khi được thực hiện một cách tuyệt đối, không có sự cân nhắc đến con người, lại có thể dẫn đến những hậu quả nghiêm trọng. Qua ví dụ này, mình hiểu rằng một công nghệ thông minh chưa chắc đã là một công nghệ tốt nếu nó không được định hướng đúng đắn.
+
+Bên cạnh đó, cuốn sách cũng giúp mình nhìn nhận AI một cách thực tế và đa chiều hơn. Mình không nghĩ rằng chúng ta nên quá sợ hãi hay bài trừ AI, bởi đây vẫn là một thành tựu có thể hỗ trợ con người giải quyết nhiều vấn đề trong cuộc sống. Tuy nhiên, việc phát triển công nghệ cần đi đôi với trách nhiệm và sự thận trọng. Con người không nên chỉ quan tâm đến việc tạo ra một hệ thống thông minh đến mức nào, mà còn phải quan tâm đến cách kiểm soát, mục tiêu hoạt động và những ảnh hưởng mà hệ thống đó có thể gây ra.
+
+Là một sinh viên, mình cảm thấy nội dung cuốn sách có liên hệ khá gần với cuộc sống hiện tại. Mình thường sử dụng AI để tìm kiếm thông tin, hỗ trợ học tập và phát triển ý tưởng. Nhưng sau khi tìm hiểu tác phẩm, mình nhận ra rằng không nên phụ thuộc hoàn toàn vào AI hay mặc nhiên xem mọi thông tin mà AI cung cấp đều chính xác. Mình cần biết chọn lọc, kiểm chứng thông tin và tự đưa ra suy nghĩ của bản thân. AI có thể là công cụ hỗ trợ rất tốt, nhưng tư duy, khả năng đánh giá và trách nhiệm đối với những quyết định của mình vẫn cần đến từ chính con người.
+
+Điều mình rút ra sau khi tìm hiểu cuốn sách là sự phát triển của công nghệ cần phải đi cùng với sự phát triển trong nhận thức và trách nhiệm của con người. Chúng ta có thể tạo ra những cỗ máy ngày càng thông minh, nhưng điều quan trọng hơn là phải đủ tỉnh táo và khôn ngoan để định hướng chúng phục vụ những giá trị tốt đẹp. Cuốn sách giúp mình hiểu rằng tương lai của AI không chỉ phụ thuộc vào năng lực của máy móc, mà còn phụ thuộc rất nhiều vào cách con người lựa chọn phát triển và sử dụng công nghệ.
+
+Nhìn chung, Siêu Trí Tuệ là một cuốn sách mang đến cho mình nhiều suy nghĩ mới mẻ về AI và tương lai nhân loại. Sau khi tìm hiểu tác phẩm, mình không chỉ nhìn AI dưới góc độ tiện ích mà còn ý thức hơn về những trách nhiệm đi kèm với sự phát triển của công nghệ. Đối với mình, bài học đáng nhớ nhất chính là: Con người không chỉ cần đủ thông minh để tạo ra trí tuệ nhân tạo, mà còn cần đủ trách nhiệm và khôn ngoan để kiểm soát nó.
